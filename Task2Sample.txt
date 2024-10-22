@@ -1,1 +1,3 @@
 "Hello. Welcome to our repository. This is the first contribution :)"
+
+This is the addition by Jon Morgan.

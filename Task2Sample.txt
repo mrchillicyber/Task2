@@ -1,2 +1,6 @@
-"Hello. Welcome to our repository. This is the first contribution :)"
+"Hello. Welcome to our repository. This is the first contribution :) -CW"
+
 "charlie adding another line"
+
+This is the addition by Jon Morgan.
+>>>>>>> d316c4807958ce6c561c445df787aa5bc355959b
